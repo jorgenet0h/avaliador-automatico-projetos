@@ -1,0 +1,4 @@
+pytest>=7.0
+
+# Opcional: só é necessário para o parecer qualitativo (`--ai`) em ai_review.py
+anthropic>=0.30
